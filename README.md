@@ -1,4 +1,4 @@
-# PostgresClientKit-CommandLineExample
+# PostgresClientKit-CommandLine-Example
 
 Demonstrates use of [PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) in a command-line application.
 

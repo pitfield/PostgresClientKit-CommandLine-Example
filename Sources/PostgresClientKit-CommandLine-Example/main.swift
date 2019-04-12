@@ -1,6 +1,6 @@
 //
 //  main.swift
-//  PostgresClientKit-CommandLineExample
+//  PostgresClientKit-CommandLine-Example
 //
 //  Copyright 2019 David Pitfield and the PostgresClientKit contributors
 //

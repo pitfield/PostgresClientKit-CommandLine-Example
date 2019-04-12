@@ -3,13 +3,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "PostgresClientKit-CommandLineExample",
+    name: "PostgresClientKit-CommandLine-Example",
     dependencies: [
         .package(url: "https://github.com/pitfield/PostgresClientKit", .branch("develop")), // TODO: update URL and version number
     ],
     targets: [
         .target(
-            name: "PostgresClientKit-CommandLineExample",
+            name: "PostgresClientKit-CommandLine-Example",
             dependencies: [ "PostgresClientKit" ]),
     ]
 )
