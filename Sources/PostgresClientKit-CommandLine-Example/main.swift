@@ -22,6 +22,7 @@ import PostgresClientKit
 do {
     var configuration = PostgresClientKit.ConnectionConfiguration()
     configuration.host = "127.0.0.1"
+    configuration.port = 5432
     configuration.ssl = true
     configuration.database = "example"
     configuration.user = "bob"
