@@ -21,11 +21,11 @@
       },
       {
         "package": "PostgresClientKit",
-        "repositoryURL": "https://github.com/pitfield/PostgresClientKit",
+        "repositoryURL": "https://github.com/codewinsdotcom/PostgresClientKit",
         "state": {
-          "branch": "develop",
-          "revision": "9fa4e67a1d54d03b0bcccd1fc1e1b5ebdf36f843",
-          "version": null
+          "branch": null,
+          "revision": "d9a93f73613248be0addcf4bd4e676e204dde810",
+          "version": "0.0.1"
         }
       }
     ]

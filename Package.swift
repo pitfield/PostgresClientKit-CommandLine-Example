@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "PostgresClientKit-CommandLine-Example",
     dependencies: [
-        .package(url: "https://github.com/pitfield/PostgresClientKit", .branch("develop")), // TODO: update URL and version number
+        .package(url: "https://github.com/codewinsdotcom/PostgresClientKit", from: "0.0.0"),
     ],
     targets: [
         .target(
