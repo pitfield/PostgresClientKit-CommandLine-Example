@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/codewinsdotcom/PostgresClientKit",
         "state": {
           "branch": null,
-          "revision": "e9cea3a6f02048aaa6e93e2feb457e9760f3b08b",
-          "version": "0.3.0"
+          "revision": "54ef8597144c75cfd13ddc2ef1ca2fb8eaf52f75",
+          "version": "0.3.1"
         }
       }
     ]
